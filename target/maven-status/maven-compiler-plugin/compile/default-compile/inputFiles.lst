@@ -1,4 +1,7 @@
 /Users/utkarshgoyal/Developer/Utkarsh/code/backend/Learning/spring-love-calculator/src/main/java/xyz/utkarshgoyal/config/LCAppInitializer.java
 /Users/utkarshgoyal/Developer/Utkarsh/code/backend/Learning/spring-love-calculator/src/main/java/xyz/utkarshgoyal/config/LoveCalculatorAppConfig.java
 /Users/utkarshgoyal/Developer/Utkarsh/code/backend/Learning/spring-love-calculator/src/main/java/xyz/utkarshgoyal/config/LoveCalculatorInitializer.java
+/Users/utkarshgoyal/Developer/Utkarsh/code/backend/Learning/spring-love-calculator/src/main/java/xyz/utkarshgoyal/controller/LoveCalculatorController.java
 /Users/utkarshgoyal/Developer/Utkarsh/code/backend/Learning/spring-love-calculator/src/main/java/xyz/utkarshgoyal/controller/TestController.java
+/Users/utkarshgoyal/Developer/Utkarsh/code/backend/Learning/spring-love-calculator/src/main/java/xyz/utkarshgoyal/dto/UserInfoDto.java
+/Users/utkarshgoyal/Developer/Utkarsh/code/backend/Learning/spring-love-calculator/src/main/java/xyz/utkarshgoyal/dto/UserRegisterDto.java
